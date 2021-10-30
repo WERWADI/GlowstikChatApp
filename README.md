@@ -49,7 +49,6 @@ This is a Starter Angular Progressive Web Application (PWA) that uses AWS AppSyn
 * [AWS Amplify CLI](https://github.com/aws-amplify/amplify-cli) (configured for a region where [AWS AppSync is available](https://docs.aws.amazon.com/general/latest/gr/rande.html#appsync_region)) `(npm install -g @aws-amplify/cli)`
 * [Angular CLI](https://github.com/angular/angular-cli) `(npm install -g @angular/cli)`
 
-
 ### Backend Setup
 
 1. First, clone this repository and navigate to the created folder:
